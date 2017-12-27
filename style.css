@@ -1,0 +1,85 @@
+     .center {
+        text-align: center;
+      }
+      h1 {
+          margin: 0;
+          padding-top: 30px;
+          color: white;
+      }
+      h4 {
+          padding-top: 10px;
+      }
+      img {
+          max-width: 17%;
+          max-height: 17%;
+      }
+      li {
+          display: inline;
+          border: 1px solid black;
+          box-sizing: border-box;
+          position: static;
+          border-radius: 15%;
+          padding-left: 50px;
+          padding-right: 50px;
+          padding-top: 30px;
+          padding-bottom: 30px;
+          margin-top: 30px
+          margin-bottom: 50px;
+          margin-right: 5px;
+          margin-left: 5px;
+          background-color: white;
+          font-size: 25px;
+          box-shadow: 1px 1px 5px 1px;
+      }
+      #app {
+          background-image: url('numbers.jpg');
+          background-size: cover;
+          text-align: center;
+          font-family: 'Catamaran', sans-serif;
+      }
+      #headers {
+          margin: 0;
+          padding: 0;
+      }
+      #main-header {
+          font-family: 'Pacifico', cursive;
+          font-size: 200px;*/
+      }
+      #parent-input {
+          width: 160px;
+          height: 160px;
+          border-radius: 50%;
+          border-color: none;
+          font-size: 50px;
+          text-align: center;
+          outline: none;
+          position: relative;
+          left: 30px;
+          margin-top: 20px;
+          margin-bottom: 65px;
+          box-shadow: 2px 2px 5px 2px;
+        }
+      #submit {
+          height: 60px;
+          width: 60px;
+          border-radius: 50%;
+          font-size: 20px;
+          position: relative;
+          top: 40px;
+          left: -10px;
+      }
+      #menu-btns {
+        padding: 30px;
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+      .footer-container {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          border-top: solid 1px black;
+          background-color: white;
+      }
+      .credit {
+         font-family: 'Catamaran', sans-serif;
+      }
